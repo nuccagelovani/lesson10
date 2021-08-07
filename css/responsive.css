@@ -1,0 +1,17 @@
+@media (max-width: 1920px) {
+    #bar-icon {
+        display: none;
+    }
+}
+@media (max-width: 1024px) {
+    .navigation {
+        display: none;
+    }
+    #bar-icon {
+        display: block;
+        margin-left: 90%;
+    }
+    .logo {
+        margin: 0 auto;
+    }
+}
